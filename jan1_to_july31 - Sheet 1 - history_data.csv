@@ -1,0 +1,490 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Danville, KY, United States",01/01/2020,49.1,35.2,41.1,30.4,,0,0,0,13.6,219.54,20.8,9.9,23.8,56.65,Clear
+"Danville, KY, United States",01/02/2020,53.1,38.3,46.7,32,,0.17,0,0,14.4,171.38,27.7,9.6,57.6,67.27,"Rain, Partially cloudy"
+"Danville, KY, United States",01/03/2020,54.7,51.3,53.1,,,0.67,0,0,14.5,211.58,32.2,5.9,68.5,89.92,"Rain, Partially cloudy"
+"Danville, KY, United States",01/04/2020,50.8,36.1,41.8,27.7,,0.06,0,0,15.4,283.71,29.2,8.7,69.2,76.2,"Rain, Partially cloudy"
+"Danville, KY, United States",01/05/2020,48.8,31.1,39.7,23.9,,0,0,0,18.1,233.54,27.3,9.9,21.8,63.32,Clear
+"Danville, KY, United States",01/06/2020,49,30,38.9,27.7,,0,0,0,9.8,157.42,21.9,9.7,2.4,58.11,Clear
+"Danville, KY, United States",01/07/2020,50.1,35.2,41.2,31.3,,0,0,0,14.7,180.92,27.9,9.7,30.7,51.8,Partially cloudy
+"Danville, KY, United States",01/08/2020,47.5,33.3,39.5,28.3,,0,0,0,12.2,206.42,23,9.9,4.7,43.37,Clear
+"Danville, KY, United States",01/09/2020,59.3,31.8,46.6,26.7,,0,0,0,18.1,147.63,31,9.9,0,39.3,Clear
+"Danville, KY, United States",01/10/2020,66.2,56.3,60.6,,,0.03,0,0,19.5,176.29,35.5,9.9,54.7,57.75,"Rain, Partially cloudy"
+"Danville, KY, United States",01/11/2020,72.4,50.5,63.5,,,0.86,0,0,27.1,179.58,57.5,9.1,61,73.88,"Rain, Partially cloudy"
+"Danville, KY, United States",01/12/2020,48.4,39.1,43.2,35.1,,0.1,0,0,22.1,175.74,37.7,9.3,56.5,79.22,"Rain, Partially cloudy"
+"Danville, KY, United States",01/13/2020,48.7,36.2,41.8,32.4,,0,0,0,6.2,136.42,,9.4,33.1,80.13,Partially cloudy
+"Danville, KY, United States",01/14/2020,55.4,40.1,49.8,40.8,,0.08,0,0,10.9,168.5,24.2,7.8,44.8,81.67,"Rain, Partially cloudy"
+"Danville, KY, United States",01/15/2020,67,36.5,52.2,39.4,,0.03,0,0,13.9,172.29,31.1,5.9,55.6,84.6,"Rain, Partially cloudy"
+"Danville, KY, United States",01/16/2020,48.3,30.7,41,23.7,,0,0,0,13.6,312.58,21.2,9.9,16.2,62.36,Clear
+"Danville, KY, United States",01/17/2020,37.2,25.8,31.4,14.9,,0,0,0,13.9,81.58,23,9.9,22.6,58.58,Clear
+"Danville, KY, United States",01/18/2020,53.1,37.9,46.6,29.4,,0.36,0,0,23,204.21,43.7,9.2,71.2,66.54,"Rain, Partially cloudy"
+"Danville, KY, United States",01/19/2020,35.7,17.3,25,4.7,,0,0,0,16,288.71,30.4,9.9,71.5,61.5,Partially cloudy
+"Danville, KY, United States",01/20/2020,26.9,15.5,21,5.5,,0,0,0,8.7,199.63,,8.6,68.2,65.5,Partially cloudy
+"Danville, KY, United States",01/21/2020,32.4,21.5,26.2,13.6,,0,0,0,9.7,58.52,,9.9,38.5,55.89,Partially cloudy
+"Danville, KY, United States",01/22/2020,41.7,16.6,28.9,10.9,,0,0,0,8.6,127.67,,9.9,0,56.8,Clear
+"Danville, KY, United States",01/23/2020,49.9,33.1,40.2,29.1,,0.2,0,0,7.9,107.5,,9.4,41.9,57.13,"Rain, Partially cloudy"
+"Danville, KY, United States",01/24/2020,49.6,41.3,44.9,35.7,,0.92,0,0,12,159.96,35.6,8.2,61.6,85.05,"Rain, Partially cloudy"
+"Danville, KY, United States",01/25/2020,40.1,34.3,36.5,26.4,,0.04,0,0,14.9,238.21,27.7,9.2,73.8,81.64,"Rain, Partially cloudy"
+"Danville, KY, United States",01/26/2020,44.8,33.1,38.1,25.8,,0,0,0,11.8,231.17,24.2,9.7,66.5,73.43,Partially cloudy
+"Danville, KY, United States",01/27/2020,46.9,33.5,40.1,27.5,,0.02,0,0,10.7,292.25,16.1,8.7,54.7,74.97,"Rain, Partially cloudy"
+"Danville, KY, United States",01/28/2020,36.7,32.5,34.8,27.8,,0,0,0,5.6,200.29,,9.1,73.6,75.16,Partially cloudy
+"Danville, KY, United States",01/29/2020,37.6,31.6,34.6,25.7,,0,0,0,9.2,51.38,,9.2,75.3,76.14,Overcast
+"Danville, KY, United States",01/30/2020,43.4,30.3,36.5,26.8,,0,0,0,5.9,53.75,,9.9,54.7,72.89,Partially cloudy
+"Danville, KY, United States",01/31/2020,41.5,34.8,37.9,28.9,,0.19,0,0,6.9,53.42,,7.5,74.9,84.82,"Rain, Partially cloudy"
+"Danville, KY, United States",02/01/2020,42.3,35.9,38.6,30.6,,0.11,0,0,11.8,234.71,21.9,6.9,62.8,86.6,"Rain, Partially cloudy"
+"Danville, KY, United States",02/02/2020,62.4,31.7,45.6,24.3,,0,0,0,20.4,220.96,35.2,9.9,4.2,64.05,Clear
+"Danville, KY, United States",02/03/2020,65.5,45.1,55.7,40.9,,0,0,0,16.8,190.21,27.2,9.9,11.7,50.23,Clear
+"Danville, KY, United States",02/04/2020,62.8,42,55.4,34.8,,0.55,0,0,19.1,209.17,31.5,7.7,73.2,85.77,"Rain, Partially cloudy"
+"Danville, KY, United States",02/05/2020,39.2,33.8,36,23.6,,0.25,0,0,15.8,64.88,26,7.1,78.1,93.14,"Rain, Overcast"
+"Danville, KY, United States",02/06/2020,37.1,31.1,35.1,25.3,,0.13,1.23,1.23,10.9,215.33,18.3,5.2,72.9,95.07,"Snow, Partially cloudy"
+"Danville, KY, United States",02/07/2020,31.2,25.6,28.7,16.9,,0.09,0.74,1.97,11.8,267.29,24.2,7,52.2,82.5,"Snow, Partially cloudy"
+"Danville, KY, United States",02/08/2020,37.2,27.2,31.6,18.5,,0.01,0.08,1.61,10,225.88,20.8,8.7,62.9,82.03,"Snow, Partially cloudy"
+"Danville, KY, United States",02/09/2020,49.9,21.8,36.4,17.8,,0,0,0.52,16.8,155.08,33.2,9.2,28.9,71.08,Partially cloudy
+"Danville, KY, United States",02/10/2020,51.1,42,47.5,36.9,,0.85,0,0,18.8,233.38,31.7,5.4,68.9,91.66,"Rain, Partially cloudy"
+"Danville, KY, United States",02/11/2020,41,35.1,37.9,29.4,,0.17,0,0,9.7,241.83,,7.3,61.1,89.82,"Rain, Partially cloudy"
+"Danville, KY, United States",02/12/2020,38.4,31.5,35.7,26,,1.06,0,0,16.2,75.96,29.2,5.7,41.8,88.84,"Rain, Partially cloudy"
+"Danville, KY, United States",02/13/2020,37.6,24.4,34.8,13.2,,0.08,0,0,13.4,279.96,27.7,7.9,70.6,85.16,"Rain, Partially cloudy"
+"Danville, KY, United States",02/14/2020,25.2,15.8,19.9,4.7,,0,0,0,11.4,244.39,20.8,9.1,41.4,64.24,Partially cloudy
+"Danville, KY, United States",02/15/2020,45.5,13.7,29.4,3.8,,0,0,0,13.9,149,23,9.9,3.3,58.99,Clear
+"Danville, KY, United States",02/16/2020,49.2,33.7,42.4,29.3,,0,0,0,9.7,162,,9.9,63.1,58.76,Partially cloudy
+"Danville, KY, United States",02/17/2020,54.9,31.3,43.7,24.5,,0,0,0,12.6,102.33,,9.9,12.4,65.83,Clear
+"Danville, KY, United States",02/18/2020,55.4,37.5,48.8,32.4,,0.25,0,0,17.9,269.13,34.4,7.5,60.8,84.96,"Rain, Partially cloudy"
+"Danville, KY, United States",02/19/2020,45.2,27.5,35.8,22.8,,0,0,0,9.2,142.96,,8,2.8,68.18,Clear
+"Danville, KY, United States",02/20/2020,37.7,22.9,32.1,12.5,,0,0,0,12.7,120.71,21.9,9.9,20,58.54,Clear
+"Danville, KY, United States",02/21/2020,36.7,15.2,25.3,10.2,,0,0,0,9,220.26,18.3,9.9,0,55.22,Clear
+"Danville, KY, United States",02/22/2020,48.6,19.2,33.3,13.7,,0,0,0,10.8,205.92,19.7,9.9,0,45.42,Clear
+"Danville, KY, United States",02/23/2020,56.7,28.3,41.7,23.1,,0,0,0,15.3,180.13,25.6,9.9,40.9,44.44,Partially cloudy
+"Danville, KY, United States",02/24/2020,45.5,41,43.8,35.5,,0.44,0,0,11.5,158.29,20.8,8.4,61.7,81.8,"Rain, Partially cloudy"
+"Danville, KY, United States",02/25/2020,52.5,45.9,49.5,42,,0.24,0,0,14,198.42,24.2,9,72.2,90.06,"Rain, Partially cloudy"
+"Danville, KY, United States",02/26/2020,46.5,29.3,39.3,19.5,,0.19,0,0,14.4,263.5,31.1,8.1,66,87.66,"Rain, Partially cloudy"
+"Danville, KY, United States",02/27/2020,36.1,25.8,30.3,15,,0.01,0,0,16.6,268,28,9.7,65.9,62.16,"Rain, Partially cloudy"
+"Danville, KY, United States",02/28/2020,39.5,30.4,34.4,22.4,,0.02,0.25,0.25,16.7,269.88,29.4,9.1,58.2,63.14,"Snow, Partially cloudy"
+"Danville, KY, United States",02/29/2020,38.5,19.1,29.1,12.9,,0.01,0.15,0.39,10.5,275.17,20.8,9.7,11.5,56.14,Snow
+"Danville, KY, United States",03/01/2020,63,25.2,44.5,18.7,,0,0,0.13,16.1,165.38,26.9,9.9,6.2,46.22,Clear
+"Danville, KY, United States",03/02/2020,56.6,47.7,52.4,42.6,,0.58,0,0,20.7,200.63,36.3,8.4,65,78.86,"Rain, Partially cloudy"
+"Danville, KY, United States",03/03/2020,58,44.7,52.6,41.9,,0.38,0,0,20.8,225.67,38.2,9.5,41.1,73.91,"Rain, Partially cloudy"
+"Danville, KY, United States",03/04/2020,61.9,33,48.1,28.7,,0,0,0,18.8,222.5,32.3,9.9,10.9,53.17,Clear
+"Danville, KY, United States",03/05/2020,60.6,35.5,47.4,29.7,,0,0,0,11.4,141.25,20.8,9.9,5.7,50.33,Clear
+"Danville, KY, United States",03/06/2020,50.7,34.6,38.9,25.7,,0,0,0,18.7,299,35.6,9.9,66.8,61.7,Partially cloudy
+"Danville, KY, United States",03/07/2020,48.4,29.6,37.4,23.8,,0,0,0,8.6,165.57,,9.9,27.4,57.21,Partially cloudy
+"Danville, KY, United States",03/08/2020,64.3,30.2,46.7,25.5,,0,0,0,16.2,159.29,24.2,9.9,0,46.05,Clear
+"Danville, KY, United States",03/09/2020,65.2,45.9,56,41.3,,0,0,0,20.8,193.63,31.8,9.9,10.3,46.58,Clear
+"Danville, KY, United States",03/10/2020,59.7,47.4,55,45.4,,0.29,0,0,20.8,257.29,35.1,8.9,66.1,81.94,"Rain, Partially cloudy"
+"Danville, KY, United States",03/11/2020,56.7,45.6,49.5,42,,0,0,0,10.1,204.79,,7.1,51.2,82.66,Partially cloudy
+"Danville, KY, United States",03/12/2020,67.3,40.6,55.4,42.6,,1,0,0,12.7,134.13,24.2,8.4,45.6,84.47,"Rain, Partially cloudy"
+"Danville, KY, United States",03/13/2020,62,43.1,52.5,39.2,,0.21,0,0,13.1,292.13,27.6,9.9,19.2,61.08,Rain
+"Danville, KY, United States",03/14/2020,44,36.1,40.4,27.5,,0.53,0,0,14.7,51.33,26.4,8.5,66.3,69.78,"Rain, Partially cloudy"
+"Danville, KY, United States",03/15/2020,40.9,34.8,38,27.3,,0.04,0,0,13.1,36.04,24.2,9.7,77.9,80.93,"Rain, Overcast"
+"Danville, KY, United States",03/16/2020,46,38.6,42,35.8,,0,0,0,8,95.75,,9.9,71.9,80.73,Partially cloudy
+"Danville, KY, United States",03/17/2020,51.6,40.7,45.4,37.4,,0.06,0,0,7.2,231.87,,8.6,55,83.96,"Rain, Partially cloudy"
+"Danville, KY, United States",03/18/2020,63.1,38.7,52.6,34.7,,0.41,0,0,17.9,150.13,30.7,8.3,58.1,91.32,"Rain, Partially cloudy"
+"Danville, KY, United States",03/19/2020,70.6,60.1,64.9,,,0.12,0,0,17,193.75,29.8,8.3,60.5,88.37,"Rain, Partially cloudy"
+"Danville, KY, United States",03/20/2020,72.1,44.3,64.2,38.6,,0.14,0,0,19.8,253.21,33.6,9.7,40,73.93,"Rain, Partially cloudy"
+"Danville, KY, United States",03/21/2020,43.6,34.8,37.4,27.7,,0,0,0,11.6,250.63,17.2,9.5,76.4,77.35,Overcast
+"Danville, KY, United States",03/22/2020,49.8,30.3,40.1,22.1,,0.07,0,0,13.5,66.29,23,9.8,31.4,72.53,"Rain, Partially cloudy"
+"Danville, KY, United States",03/23/2020,54.4,44.1,48.4,42,,0.09,0,0,9.6,214.08,,8.1,60.7,84.49,"Rain, Partially cloudy"
+"Danville, KY, United States",03/24/2020,54.6,39.9,47,35,,0.2,0,0,15.9,59.29,25.6,8.3,32.4,83.24,"Rain, Partially cloudy"
+"Danville, KY, United States",03/25/2020,60.3,41.4,49.2,37,,0.02,0,0,12.9,184.61,,7.8,36.9,78.44,"Rain, Partially cloudy"
+"Danville, KY, United States",03/26/2020,73.8,42,59.2,39.3,,0,0,0,15.2,178.33,24.2,9.8,3.9,65.3,Clear
+"Danville, KY, United States",03/27/2020,77.6,56.5,67.7,,,0,0,0,11.2,178.46,19.7,9.9,39.3,70.26,Partially cloudy
+"Danville, KY, United States",03/28/2020,78.7,65.9,71.8,,,0.01,0,0,18.9,199.71,30.9,9.9,9.5,70.86,Rain
+"Danville, KY, United States",03/29/2020,67.8,56.8,64.4,,,0.41,0,0,26.1,230.63,44.1,9.8,13.3,57.75,Rain
+"Danville, KY, United States",03/30/2020,63,47.6,54.3,44.4,,0,0,0,14.4,276.54,26.8,9.9,0,47.09,Clear
+"Danville, KY, United States",03/31/2020,48.9,40.7,44.7,35.1,,0.13,0,0,10.7,173.92,21.9,9.6,55.3,73.96,"Rain, Partially cloudy"
+"Danville, KY, United States",04/01/2020,52.9,40.4,45.7,35.2,,0,0,0,10.2,321.25,18.3,9.8,68.5,73.86,Partially cloudy
+"Danville, KY, United States",04/02/2020,60.2,34.3,48.1,46.5,,0,0,0,6.7,89.09,,9.9,16.5,67.68,Clear
+"Danville, KY, United States",04/03/2020,66.9,39,53.2,40,,0,0,0,4.6,59.78,,9.9,1.5,60.11,Clear
+"Danville, KY, United States",04/04/2020,70.8,42.8,58.1,,,0,0,0,7.1,150.25,,9.9,18.1,59.62,Clear
+"Danville, KY, United States",04/05/2020,69.2,50.8,59.1,,,0.02,0,0,9.5,203.17,,9.2,39.6,74.87,"Rain, Partially cloudy"
+"Danville, KY, United States",04/06/2020,70.5,49,58.7,,,0,0,0,7,103,,9.2,48.4,76.12,Partially cloudy
+"Danville, KY, United States",04/07/2020,76.1,55.1,66.2,,,0,0,0,16.6,190.92,29.8,9.9,31,71.36,Partially cloudy
+"Danville, KY, United States",04/08/2020,78.7,59.7,70.3,,,0.06,0,0,21.5,232.67,40.2,9.9,40.9,72.56,"Rain, Partially cloudy"
+"Danville, KY, United States",04/09/2020,57.6,42.1,52.5,37.7,,0.33,0,0,17.6,289.33,33,9.7,38.4,56,"Rain, Partially cloudy"
+"Danville, KY, United States",04/10/2020,50.5,33,41.3,26.4,,0.02,0,0,17.1,270.42,35,9.8,18.7,57.64,Rain
+"Danville, KY, United States",04/11/2020,60.8,33.7,48.2,29.5,,0.01,0,0,11.7,170.83,17.6,9.9,41.3,51.96,"Rain, Partially cloudy"
+"Danville, KY, United States",04/12/2020,61,53.1,56.5,,,0.76,0,0,17.7,148.29,35.5,8.9,67.7,65.13,"Rain, Partially cloudy"
+"Danville, KY, United States",04/13/2020,62.8,39.4,49.2,35.3,,0.93,0,0,20.9,228.54,38.5,9,52.8,78.54,"Rain, Partially cloudy"
+"Danville, KY, United States",04/14/2020,42.9,33.6,39.1,28,,0,0,0,9.2,213.52,19.7,9.9,47.2,62.5,Partially cloudy
+"Danville, KY, United States",04/15/2020,53.6,26.3,40.6,24.3,,0,0,0,18,231.04,31.9,9.9,19.5,59.21,Clear
+"Danville, KY, United States",04/16/2020,51.2,26,40,29.1,,0,0,0,7.4,143.54,17.2,9.9,14.4,57.47,Clear
+"Danville, KY, United States",04/17/2020,60.4,40,49.8,37.1,,0.22,0,0,18.3,209.42,30.1,9.4,61.4,64.4,"Rain, Partially cloudy"
+"Danville, KY, United States",04/18/2020,52.3,35.8,43.5,27.8,,0.12,0,0,12.7,275.35,24.2,9.2,40.4,69.04,"Rain, Partially cloudy"
+"Danville, KY, United States",04/19/2020,57.8,37.4,48.3,33.1,,0,0,0,7.7,160.29,,9.9,36.9,67.07,Partially cloudy
+"Danville, KY, United States",04/20/2020,64.8,41.8,54.2,39.6,,0,0,0,10.2,230.91,20.8,9.9,9.5,56.91,Clear
+"Danville, KY, United States",04/21/2020,61,43.2,54.7,43,,0,0,0,20.8,269.5,38.8,9.9,15.2,47.48,Clear
+"Danville, KY, United States",04/22/2020,67.6,35.2,52.4,32.7,,0,0,0,11.3,143.54,22.6,9.9,0,50.25,Clear
+"Danville, KY, United States",04/23/2020,57.1,51.7,54.5,,,0.9,0,0,9.4,119.5,20.8,7.2,63,86.55,"Rain, Partially cloudy"
+"Danville, KY, United States",04/24/2020,62.7,49.5,56.2,,,0.03,0,0,9.2,224.96,,8.8,55.6,83.88,"Rain, Partially cloudy"
+"Danville, KY, United States",04/25/2020,64.6,46.5,55.3,45.4,,0.46,0,0,12.3,120.58,22.3,8.9,30.8,86.84,"Rain, Partially cloudy"
+"Danville, KY, United States",04/26/2020,54.1,42.7,48.9,40,,0.48,0,0,15.7,257.96,29.8,7,60.1,91.75,"Rain, Partially cloudy"
+"Danville, KY, United States",04/27/2020,63,34,50.4,,,0,0,0,8.6,105.42,,7,11.9,67.15,Clear
+"Danville, KY, United States",04/28/2020,71.4,51.7,61.5,,,0,0,0,16.9,199.33,29.1,9.9,50.9,55.65,Partially cloudy
+"Danville, KY, United States",04/29/2020,68.8,50.6,58.8,,,0.34,0,0,23.5,190.75,43.4,9.3,54.2,73.09,"Rain, Partially cloudy"
+"Danville, KY, United States",04/30/2020,51.1,46.9,48.3,41.6,,0.08,0,0,13.2,257.63,26.4,9.2,62.5,86.97,"Rain, Partially cloudy"
+"Danville, KY, United States",05/01/2020,66.2,43,53.3,39.4,,0,0,0,9.2,254.91,,9.9,31.1,66.97,Partially cloudy
+"Danville, KY, United States",05/02/2020,78.3,49.7,65.4,,,0.01,0,0,17.7,188.08,29.8,9.9,14,60.76,Rain
+"Danville, KY, United States",05/03/2020,77.3,59.9,67.7,,,0.14,0,0,15.4,250.42,29.2,9.9,51.7,72.99,"Rain, Partially cloudy"
+"Danville, KY, United States",05/04/2020,72.6,46.4,61.4,,,0,0,0,11.1,170.54,22.9,9.6,13.4,61.72,Clear
+"Danville, KY, United States",05/05/2020,57.3,46.4,51,44,,0.43,0,0,13.8,163.92,23,7.3,71.3,86.02,"Rain, Partially cloudy"
+"Danville, KY, United States",05/06/2020,57.9,42,48.4,35.7,,0,0,0,12.9,326.88,26.4,9.9,45.4,64.28,Partially cloudy
+"Danville, KY, United States",05/07/2020,65.4,37.2,52.5,33.8,,0,0,0,14.2,251.33,28.3,9.9,21.7,57.37,Clear
+"Danville, KY, United States",05/08/2020,51.7,38.9,48.6,31.7,,0.63,0,0,15.2,266.58,33.3,8.6,43.2,73.71,"Rain, Partially cloudy"
+"Danville, KY, United States",05/09/2020,54.8,29,42.6,28.2,,0,0,0,10,230.83,21.3,9.9,0.9,52.78,Clear
+"Danville, KY, United States",05/10/2020,64.2,38.8,51.1,35.7,,0,0,0,22.6,208.17,39.8,9.9,17.8,55.89,Clear
+"Danville, KY, United States",05/11/2020,50.2,36,44.7,33,,0,0,0,10.6,249,22.1,9.9,53.4,62.69,Partially cloudy
+"Danville, KY, United States",05/12/2020,60.1,36.2,49.4,37.7,,0,0,0,8,130.96,,9.9,30.9,62.83,Partially cloudy
+"Danville, KY, United States",05/13/2020,53.8,48.6,50.9,45.1,,0.14,0,0,11.8,105.63,24.2,8.7,70,86.35,"Rain, Partially cloudy"
+"Danville, KY, United States",05/14/2020,78.5,53.8,66.7,,,0,0,0,18.6,189.88,32.5,9.7,22.7,70.18,Clear
+"Danville, KY, United States",05/15/2020,77.1,64.2,69.7,,,0.16,0,0,15.6,204.33,33.3,9.7,48.2,70.31,"Rain, Partially cloudy"
+"Danville, KY, United States",05/16/2020,79.3,63.4,70,,,0.46,0,0,6.9,129.21,,8.4,46.8,83.51,"Rain, Partially cloudy"
+"Danville, KY, United States",05/17/2020,80.9,64.6,72.4,,82.3,0,0,0,12.2,162.71,21.5,9.8,29,72.58,Partially cloudy
+"Danville, KY, United States",05/18/2020,72.2,59.6,66.8,,,0.86,0,0,11,207.63,28.6,8.6,60,86.38,"Rain, Partially cloudy"
+"Danville, KY, United States",05/19/2020,64.1,57.6,60.1,,,0.89,0,0,10.8,134.88,18.3,8.2,64.6,91.3,"Rain, Partially cloudy"
+"Danville, KY, United States",05/20/2020,60.4,54,56.9,,,0,0,0,16.6,77.17,25.6,9.9,67.8,80.71,Partially cloudy
+"Danville, KY, United States",05/21/2020,67.7,53.6,59.8,,,0.01,0,0,11.1,72.71,19.7,9.9,55.3,80.72,"Rain, Partially cloudy"
+"Danville, KY, United States",05/22/2020,76,55.7,66.7,,,0,0,0,6,141.58,,9.4,53.9,78.02,Partially cloudy
+"Danville, KY, United States",05/23/2020,79.9,64.6,70.3,,,0.31,0,0,7.3,147.67,50.6,9.6,42.8,83.34,"Rain, Partially cloudy"
+"Danville, KY, United States",05/24/2020,82.6,63.5,73.5,,84,0.45,0,0,9.1,191.17,23,9.9,12.6,76.77,Rain
+"Danville, KY, United States",05/25/2020,83.1,65,73.9,,85.8,0.07,0,0,12.3,131.79,36.7,9.9,7.8,76.63,Rain
+"Danville, KY, United States",05/26/2020,83.7,65.6,73.8,,86.6,0,0,0,10.5,171.92,27.5,9.9,13.4,78.73,Clear
+"Danville, KY, United States",05/27/2020,78.2,68.1,73,,,0,0,0,9.4,139.21,,9.9,58,77.15,Partially cloudy
+"Danville, KY, United States",05/28/2020,81,66.2,72.6,,82.5,0.01,0,0,11.9,182.42,20.8,9.9,38.7,75.23,"Rain, Partially cloudy"
+"Danville, KY, United States",05/29/2020,78.8,62.9,68.4,,,0.11,0,0,17.4,214.5,33.6,9.7,38.6,82.37,"Rain, Partially cloudy"
+"Danville, KY, United States",05/30/2020,74.2,57.9,65.8,,,0,0,0,11.1,261.79,19.7,7.9,19.2,72.41,Clear
+"Danville, KY, United States",05/31/2020,71.7,53.7,62.5,,,0,0,0,13,51.5,20.8,9.9,0.9,55.2,Clear
+"Danville, KY, United States",06/01/2020,75.9,48.5,63.9,47.6,,0,0,0,7.1,99.48,,9.9,0.7,50.82,Clear
+"Danville, KY, United States",06/02/2020,85.8,59.3,73.7,,85.5,0,0,0,13.7,212.88,24.5,9.9,1.6,56,Clear
+"Danville, KY, United States",06/03/2020,85.9,65.4,75.8,,86.5,0,0,0,14.3,229.29,25.2,9.9,0,62.28,Clear
+"Danville, KY, United States",06/04/2020,81.9,68.9,73.7,,85.2,0.43,0,0,18.1,215.08,40,9.3,25.7,82.37,"Rain, Partially cloudy"
+"Danville, KY, United States",06/05/2020,85.3,67.7,74.9,,88.8,0.03,0,0,7,200.38,,8.6,43.2,80.13,"Rain, Partially cloudy"
+"Danville, KY, United States",06/06/2020,88.9,66.8,78.4,,92.5,0,0,0,8.2,198,,9.5,11.3,72.23,Clear
+"Danville, KY, United States",06/07/2020,82.8,64.6,74.4,,81.8,0,0,0,11.7,75.75,18.3,9.9,0,54.4,Clear
+"Danville, KY, United States",06/08/2020,86.1,61.6,74.5,,85.8,0,0,0,11.4,84.08,17.2,9.9,0,54.24,Clear
+"Danville, KY, United States",06/09/2020,84.4,71,78.1,,89.1,0.08,0,0,17.2,162.17,32.4,9.9,17.8,71.09,Rain
+"Danville, KY, United States",06/10/2020,89.6,69.3,78.7,,96.9,0.11,0,0,20.4,203.67,36.3,9.8,33.7,70.47,"Rain, Partially cloudy"
+"Danville, KY, United States",06/11/2020,79.2,59.4,70.2,,,0,0,0,11.3,245.33,24.2,9.9,17,58.61,Clear
+"Danville, KY, United States",06/12/2020,83.9,54.5,70.8,,82.3,0,0,0,9.9,162.38,17.4,9.9,7.7,54.82,Clear
+"Danville, KY, United States",06/13/2020,82.7,56.5,70.6,,82.2,0,0,0,12.2,97.46,23,9.9,8.2,60.28,Clear
+"Danville, KY, United States",06/14/2020,71.9,57.5,64.7,,,0.01,0,0,12.6,87,20.8,9.9,28.3,71.69,"Rain, Partially cloudy"
+"Danville, KY, United States",06/15/2020,75.2,53.5,65,,,0,0,0,14,83.46,20.8,9.9,14.4,68.08,Clear
+"Danville, KY, United States",06/16/2020,78.3,56.8,67.6,,,0,0,0,13.3,60.38,25.3,9.9,11.8,63.25,Clear
+"Danville, KY, United States",06/17/2020,78.9,57.5,69.3,,,0,0,0,14,77.75,22.8,9.9,23.7,64.25,Clear
+"Danville, KY, United States",06/18/2020,80,60.3,69,,,0.6,0,0,9.2,176.83,21.9,9.3,43.9,78.47,"Rain, Partially cloudy"
+"Danville, KY, United States",06/19/2020,84.1,62.8,72.6,,85.7,0.34,0,0,8.7,176.42,,8.5,25.8,77.42,"Rain, Partially cloudy"
+"Danville, KY, United States",06/20/2020,86.8,64.8,76.6,,88.8,0,0,0,8.1,212.22,,9.9,6.2,68.12,Clear
+"Danville, KY, United States",06/21/2020,85.9,67.7,73.4,,88.2,0.75,0,0,9.6,165.29,37.8,9.2,28,78.64,"Rain, Partially cloudy"
+"Danville, KY, United States",06/22/2020,84.7,67.2,75.2,,87.1,0.01,0,0,11.9,220.38,24.2,8.4,43.8,77.86,"Rain, Partially cloudy"
+"Danville, KY, United States",06/23/2020,79.4,65.5,73.1,,,0.36,0,0,14.7,245.63,34.4,9.7,41.6,77.21,"Rain, Partially cloudy"
+"Danville, KY, United States",06/24/2020,80.3,62.1,70.6,,80.8,0.01,0,0,8.5,254.79,18.3,9.8,26.4,69.8,"Rain, Partially cloudy"
+"Danville, KY, United States",06/25/2020,82.2,58.3,72.1,,82,0,0,0,9,189.14,,9.9,9.9,64.47,Clear
+"Danville, KY, United States",06/26/2020,85.8,63.5,75.5,,87.6,0,0,0,14.1,210.67,23,9.9,13.3,66.24,Clear
+"Danville, KY, United States",06/27/2020,76.4,67.6,72.6,,,0.15,0,0,14.2,222.83,28.9,8.9,50.2,86.58,"Rain, Partially cloudy"
+"Danville, KY, United States",06/28/2020,76.9,67.6,71.9,,,0.16,0,0,10.1,216.38,,9.9,54.3,90.52,"Rain, Partially cloudy"
+"Danville, KY, United States",06/29/2020,83.9,69.2,75.3,,88.8,0.11,0,0,9.6,224.18,20.8,9.5,42.1,85.47,"Rain, Partially cloudy"
+"Danville, KY, United States",06/30/2020,82.8,67.6,74.6,,86.6,0.13,0,0,9.3,193.91,,9.9,23.3,82.34,Rain
+"Danville, KY, United States",07/01/2020,83.5,70.7,76.8,,88.7,0.02,0,0,10,126.29,,9.8,35.9,80.73,"Rain, Partially cloudy"
+"Danville, KY, United States",07/02/2020,87.4,69.1,78.6,,88.7,0,0,0,10.5,48.63,18.3,9.8,20.7,67.19,Clear
+"Danville, KY, United States",07/03/2020,88.9,65,78,,90.2,0,0,0,9.8,69.13,17.2,9.9,9.8,66.38,Clear
+"Danville, KY, United States",07/04/2020,90.7,66.9,79.9,,91.7,0,0,0,7.8,44.04,,9.5,5.7,63.46,Clear
+"Danville, KY, United States",07/05/2020,91.3,67.9,79.8,,94.1,0.3,0,0,8.1,96.61,23,8,24,68.25,Rain
+"Danville, KY, United States",07/06/2020,90.2,70.3,79.3,,96.1,0,0,0,9.5,104.33,20.8,9.8,9.9,72.52,Clear
+"Danville, KY, United States",07/07/2020,89.4,68.8,79.5,,94.1,0,0,0,5.8,116.88,,9.9,7,70.39,Clear
+"Danville, KY, United States",07/08/2020,89.2,68.2,78.8,,94.2,0.25,0,0,6.1,145.46,29.8,9.7,8.3,75.13,Rain
+"Danville, KY, United States",07/09/2020,86.8,69.9,78.3,,93,0.11,0,0,11.2,90.17,36.3,8.8,7.8,80.01,Rain
+"Danville, KY, United States",07/10/2020,88.8,72,79.2,,96.4,0,0,0,16.2,215.13,30.9,9.9,16.4,73.99,Clear
+"Danville, KY, United States",07/11/2020,86.3,66.7,75.6,,86.8,0.68,0,0,16.1,269.96,39,9.6,17.6,69.44,Rain
+"Danville, KY, United States",07/12/2020,82.8,64.8,73.3,,85.3,0,0,0,9.5,252.27,20.8,9.9,27.4,75.14,Partially cloudy
+"Danville, KY, United States",07/13/2020,84,61.2,73.1,,84.6,0,0,0,9.2,237.29,17.2,9.8,1.8,69.61,Clear
+"Danville, KY, United States",07/14/2020,85.9,59.6,74.3,,86.5,0,0,0,7.4,106.26,,9.9,0.9,66.54,Clear
+"Danville, KY, United States",07/15/2020,90.1,63.7,78.5,,91.6,0,0,0,8.9,120,18.3,9.9,5.4,63.15,Clear
+"Danville, KY, United States",07/16/2020,84.8,75.7,79.4,,94,0.23,0,0,13,224.63,23,9.7,28.2,77.67,"Rain, Partially cloudy"
+"Danville, KY, United States",07/17/2020,81.7,70.5,75.6,,86.2,0.01,0,0,7.8,150.39,,9.8,31.3,85.25,"Rain, Partially cloudy"
+"Danville, KY, United States",07/18/2020,90.3,69.7,80.2,,98.8,0,0,0,10.2,180.83,18.4,9.4,9.2,76.88,Clear
+"Danville, KY, United States",07/19/2020,91.7,73.6,82.7,,99.4,0,0,0,15,223.71,24.8,9.9,5.4,70.92,Clear
+"Danville, KY, United States",07/20/2020,88.7,73.5,79.4,,97.8,0,0,0,11.5,198.46,19.7,9.9,10.9,78.8,Clear
+"Danville, KY, United States",07/21/2020,91.4,69.7,80.8,,97.8,0,0,0,8.1,192.57,,9.8,1.4,73.18,Clear
+"Danville, KY, United States",07/22/2020,88,71.3,78.7,,94.8,0.17,0,0,11.1,194.96,31.1,9.9,17.6,76.61,Rain
+"Danville, KY, United States",07/23/2020,82.9,72,76.3,,88,0.07,0,0,9.6,229.21,18.3,9.7,33.2,84,"Rain, Partially cloudy"
+"Danville, KY, United States",07/24/2020,89.9,67.8,78.8,,92.1,0,0,0,9.3,213.25,17.2,9.5,16.5,71.75,Clear
+"Danville, KY, United States",07/25/2020,91.6,67.5,79.6,,94.6,0,0,0,6.5,195.83,,9.9,9,70.31,Clear
+"Danville, KY, United States",07/26/2020,88.6,70.2,79,,94.5,0.06,0,0,10.2,189.42,18.3,9.7,9.5,76.95,Rain
+"Danville, KY, United States",07/27/2020,91.5,70,79.2,,98.2,0.08,0,0,16.6,199.63,28.8,9.9,9.4,75.82,Rain
+"Danville, KY, United States",07/28/2020,87.6,71.9,78.7,,91.2,0.31,0,0,8.2,165.43,16.1,9.2,41.1,75.3,"Rain, Partially cloudy"
+"Danville, KY, United States",07/29/2020,89.9,71.1,80.5,,94.4,0,0,0,9.7,195.29,,9.9,22.4,71.4,Clear
+"Danville, KY, United States",07/30/2020,81,71.6,75.8,,86.6,1.26,0,0,9.5,175.67,29.8,8.1,35.1,90.74,"Rain, Partially cloudy"
+"Danville, KY, United States",07/31/2020,80.3,68.7,73.4,,84.1,0.41,0,0,7.3,149.04,,7.3,60.6,90.48,"Rain, Partially cloudy"
+"Danville, KY, United States",08/01/2020,83.2,69.9,75.2,,88.3,0.22,0,0,16.9,185.79,38.4,9.7,42.4,87.94,"Rain, Partially cloudy"
+"Danville, KY, United States",08/02/2020,79,65.6,71.6,,,0.02,0,0,14.8,230.92,29.3,9.7,54.9,78.46,"Rain, Partially cloudy"
+"Danville, KY, United States",08/03/2020,83.2,63.6,72.6,,84.4,0.07,0,0,8.1,182.33,,9.1,16.7,77.52,Rain
+"Danville, KY, United States",08/04/2020,77.2,62.6,68.7,,,0,0,0,6.9,214.43,,7.2,40.1,84.02,Partially cloudy
+"Danville, KY, United States",08/05/2020,78.3,57.8,68.9,,,0,0,0,7.1,116.67,,9.9,29.8,73.86,Partially cloudy
+"Danville, KY, United States",08/06/2020,81.4,61.5,71.1,,83,0,0,0,10.5,66.38,16.1,9.9,20.7,71.1,Clear
+"Danville, KY, United States",08/07/2020,83.3,62.6,72.3,,83.9,0,0,0,7.8,221.33,,9.9,26.7,69.28,Partially cloudy
+"Danville, KY, United States",08/08/2020,84.4,59,72.7,,85.2,0,0,0,6.7,178.25,,9.8,15,69.19,Clear
+"Danville, KY, United States",08/09/2020,88.6,60.4,75.2,,90.2,0,0,0,6.2,140.83,,9.7,1.7,70.22,Clear
+"Danville, KY, United States",08/10/2020,80.5,69.8,73.8,,84.3,0.92,0,0,8.3,166.67,23,9.2,36.2,87.2,"Rain, Partially cloudy"
+"Danville, KY, United States",08/11/2020,84.1,67.1,75.1,,88.7,0.11,0,0,12,225.46,39.9,9.9,24.2,81.55,Rain
+"Danville, KY, United States",08/12/2020,86,68.5,77.7,,91.8,0,0,0,6.2,149.58,,9.5,17.5,79.16,Clear
+"Danville, KY, United States",08/13/2020,87.5,70.5,79.1,,92.6,0,0,0,6.6,150.79,,9.1,9.1,76.36,Clear
+"Danville, KY, United States",08/14/2020,81.7,72.1,75.3,,85.1,0.07,0,0,8.5,113.71,,9.4,24,82.63,Rain
+"Danville, KY, United States",08/15/2020,85.2,70.1,76,,88.7,0,0,0,11.4,112.88,17.2,9.3,51.1,79.55,Partially cloudy
+"Danville, KY, United States",08/16/2020,85.4,65.9,75,,89,0.19,0,0,10.4,187.96,20.8,9.4,10.5,77.66,Rain
+"Danville, KY, United States",08/17/2020,83.9,61.4,73.3,,85,0,0,0,7.7,237.33,,9.9,4.1,71.01,Clear
+"Danville, KY, United States",08/18/2020,82.7,65.3,69.8,,84.9,0.65,0,0,12.4,165.17,33.3,9.4,47.3,83.82,"Rain, Partially cloudy"
+"Danville, KY, United States",08/19/2020,77.7,61.7,69.6,,,0,0,0,11.5,39.13,19.9,9.2,25.5,73.85,Partially cloudy
+"Danville, KY, United States",08/20/2020,81.5,56.6,70,,82.2,0,0,0,9.3,41.83,19.7,9.9,0.6,66.18,Clear
+"Danville, KY, United States",08/21/2020,78.8,64.9,71.3,,,0.14,0,0,8.3,73.46,,9.9,26.5,83.9,"Rain, Partially cloudy"
+"Danville, KY, United States",08/22/2020,81.1,68.5,72.6,,84.1,0.16,0,0,11.2,97.46,21.9,8.8,43.7,86.51,"Rain, Partially cloudy"
+"Danville, KY, United States",08/23/2020,81.1,65.1,73.2,,84.5,0.2,0,0,7.4,191.5,,9.2,24.4,83.52,Rain
+"Danville, KY, United States",08/24/2020,86.7,66.4,76.4,,89.3,0,0,0,7.2,182.57,17.2,9.8,2.6,76.07,Clear
+"Danville, KY, United States",08/25/2020,88.7,66.9,77.7,,94.3,0,0,0,6.5,194.74,,9.3,10.5,76.71,Clear
+"Danville, KY, United States",08/26/2020,87.9,68.7,78.3,,93.3,0,0,0,8.2,195.79,,9,7.4,78.32,Clear
+"Danville, KY, United States",08/27/2020,85.1,72.5,78,,93,0,0,0,9.8,224.39,,9.9,9.8,82.26,Clear
+"Danville, KY, United States",08/28/2020,87.1,71.9,78.3,,92.9,0.55,0,0,17.4,177.21,31.1,9.3,27.1,80.81,"Rain, Partially cloudy"
+"Danville, KY, United States",08/29/2020,82.4,70.8,74.4,,86.3,0.56,0,0,8.7,264.08,19.7,8.7,51.8,87.21,"Rain, Partially cloudy"
+"Danville, KY, United States",08/30/2020,78.6,62.9,71.8,,,0.01,0,0,8.7,86.29,18.3,9.9,23.9,70.54,Rain
+"Danville, KY, United States",08/31/2020,80.4,65.7,71.8,,84.2,0.79,0,0,7,147.17,,8.9,57,87.87,"Rain, Partially cloudy"
+"Danville, KY, United States",09/01/2020,83.2,69.4,75.2,,88.5,0,0,0,9.1,193.88,17.2,7.1,42.4,87.72,Partially cloudy
+"Danville, KY, United States",09/02/2020,83.1,72.2,76.8,,88.4,0.42,0,0,14.9,194.79,27.3,9.1,44.9,85.55,"Rain, Partially cloudy"
+"Danville, KY, United States",09/03/2020,82.6,71.7,76,,87.4,0.52,0,0,14.8,221.29,28.7,8.9,43.6,87.53,"Rain, Partially cloudy"
+"Danville, KY, United States",09/04/2020,79.4,64,72.9,,,0,0,0,10.6,275.21,21.9,9.5,24.6,74.74,Clear
+"Danville, KY, United States",09/05/2020,79,53.7,66.3,,,0,0,0,5,174.86,,9.9,0,66.71,Clear
+"Danville, KY, United States",09/06/2020,81.4,56.6,68.9,,81.4,0,0,0,7.8,182.43,,9.8,0.6,69,Clear
+"Danville, KY, United States",09/07/2020,83.4,62.8,72.9,,85.1,0,0,0,13.6,196.71,20.8,9.9,0,68.23,Clear
+"Danville, KY, United States",09/08/2020,85.2,63.9,74,,86.4,0,0,0,7.6,150.5,,9.9,0,71.8,Clear
+"Danville, KY, United States",09/09/2020,85.3,62.8,73.9,,86.7,0,0,0,6.8,78.04,,9.8,1.4,74.41,Clear
+"Danville, KY, United States",09/10/2020,86.2,64.5,75.3,,90.3,0,0,0,8.3,107.92,,9.9,14.3,77.51,Clear
+"Danville, KY, United States",09/11/2020,74.5,67.9,71.7,,,0,0,0,11,41.79,,8.2,52.3,88.69,Partially cloudy
+"Danville, KY, United States",09/12/2020,81.3,64.4,71.9,,86,0.29,0,0,8.2,135.04,20.8,7.6,51.1,88.36,"Rain, Partially cloudy"
+"Danville, KY, United States",09/13/2020,77.5,69,73.1,,,1.44,0,0,7.2,197.08,20.8,8.7,49,91.89,"Rain, Partially cloudy"
+"Danville, KY, United States",09/14/2020,78.6,62.6,69.4,,,0,0,0,10.9,46.25,17.2,9.5,6.3,77.51,Clear
+"Danville, KY, United States",09/15/2020,72.6,54.8,63.3,,,0,0,0,9.2,52.54,,9.9,0,74.54,Clear
+"Danville, KY, United States",09/16/2020,77.4,54.6,65.8,,,0,0,0,4.5,91.04,,9.9,15.5,85.26,Clear
+"Danville, KY, United States",09/17/2020,77.5,61,67.7,,,0,0,0,10.5,52.42,19.1,8.4,4.6,76.65,Clear
+"Danville, KY, United States",09/18/2020,68.9,54.7,61.4,,,0,0,0,13.1,34.5,21.5,9.9,12.5,65.67,Clear
+"Danville, KY, United States",09/19/2020,68,44.4,56.1,40.9,,0,0,0,11.2,41.71,17.2,9.9,0,62.71,Clear
+"Danville, KY, United States",09/20/2020,71.2,45.2,58.3,43.1,,0,0,0,15,59.29,26.4,9.9,0,63.09,Clear
+"Danville, KY, United States",09/21/2020,72.7,47.7,59.4,46,,0,0,0,8.2,96,,9.9,0,63.09,Clear
+"Danville, KY, United States",09/22/2020,71.5,45.3,58.9,,,0,0,0,5.4,121.38,,9.9,8.5,73.62,Clear
+"Danville, KY, United States",09/23/2020,70.4,50.8,61.2,,,0,0,0,5.5,113.83,,9.7,0,79.3,Clear
+"Danville, KY, United States",09/24/2020,72.4,58,64.2,,,0,0,0,8.8,102.63,,9.6,40,77.98,Partially cloudy
+"Danville, KY, United States",09/25/2020,76.1,57,66.4,,,0,0,0,5.4,88.67,,9.9,44.4,78.86,Partially cloudy
+"Danville, KY, United States",09/26/2020,76.5,59.9,67.2,,,0,0,0,11.6,179.96,,8.3,33.8,83.89,Partially cloudy
+"Danville, KY, United States",09/27/2020,78,59.1,67.6,,,0,0,0,11.7,192.63,21.9,9.1,25.7,80.22,Partially cloudy
+"Danville, KY, United States",09/28/2020,74,55.8,63.2,,,0.2,0,0,13.7,213.42,31.1,9.3,45.4,88.71,"Rain, Partially cloudy"
+"Danville, KY, United States",09/29/2020,60.2,49.1,53.3,47.4,,0.22,0,0,9.7,219.74,21.9,6,48,89.13,"Rain, Partially cloudy"
+"Danville, KY, United States",09/30/2020,73.2,44.8,58.7,41.3,,0,0,0,20.3,221.33,34.9,9.9,12,67.52,Clear
+"Danville, KY, United States",10/01/2020,66.6,47.4,58.2,46.3,,0,0,0,11.7,266.58,21.9,9.9,40,55.91,Partially cloudy
+"Danville, KY, United States",10/02/2020,61.2,39,50.7,37.1,,0,0,0,7.3,236.5,19.7,9.9,33.5,69.66,Partially cloudy
+"Danville, KY, United States",10/03/2020,65.2,40.4,52.8,38.5,,0,0,0,7.5,97,,9.3,28.5,68.83,Partially cloudy
+"Danville, KY, United States",10/04/2020,66.4,47,55.9,45.3,,0.03,0,0,13.6,196.75,23,9.9,63.9,73.27,"Rain, Partially cloudy"
+"Danville, KY, United States",10/05/2020,62.7,34.4,48.8,44.7,,0,0,0,5.9,45.74,,8.1,7.6,73.36,Clear
+"Danville, KY, United States",10/06/2020,71.2,37.9,54.3,36,,0,0,0,10.8,164.83,,9.9,0,63.79,Clear
+"Danville, KY, United States",10/07/2020,80.8,51.2,64.3,,80.6,0,0,0,13.6,223.96,25.3,9.9,0,59.21,Clear
+"Danville, KY, United States",10/08/2020,77.7,53.1,64.6,,,0,0,0,8.3,93.08,,9.9,0,56.73,Clear
+"Danville, KY, United States",10/09/2020,78.3,53.4,65.2,,,0,0,0,12.4,149.75,21.3,9.9,7.8,66.07,Clear
+"Danville, KY, United States",10/10/2020,69.4,63.7,66.1,,,0.01,0,0,7.6,142.08,,9.9,67.8,84.72,"Rain, Partially cloudy"
+"Danville, KY, United States",10/11/2020,69.5,63.3,65.9,,,0.05,0,0,12.7,53.88,21.9,9,73.1,88.87,"Rain, Partially cloudy"
+"Danville, KY, United States",10/12/2020,75.7,56.5,67.1,,,0.2,0,0,17.1,162.33,33.8,8.8,75.8,85.16,"Rain, Overcast"
+"Danville, KY, United States",10/13/2020,67,41.7,55.1,47.4,,0,0,0,11.3,213.17,20.8,9.5,3,68.2,Clear
+"Danville, KY, United States",10/14/2020,76.4,44.6,59.7,43,,0,0,0,12.2,175.63,21.9,9.9,0,58.49,Clear
+"Danville, KY, United States",10/15/2020,66.9,50.8,60.2,,,0.01,0,0,14.6,263.29,31.1,9.9,39.9,71.43,"Rain, Partially cloudy"
+"Danville, KY, United States",10/16/2020,56.7,38,47.7,36,,0,0,0,10.7,280.46,19.7,9.8,8.5,59.08,Clear
+"Danville, KY, United States",10/17/2020,61.3,33.8,47,30,,0,0,0,7.7,155.96,18.3,9.9,1.4,52.63,Clear
+"Danville, KY, United States",10/18/2020,58.6,45.4,52,41.7,,0.01,0,0,13.1,169.04,25.3,9.9,60.1,66.67,"Rain, Partially cloudy"
+"Danville, KY, United States",10/19/2020,62.8,54.4,58.6,,,0.79,0,0,9.3,125.17,24.2,7.8,74.8,89.41,"Rain, Partially cloudy"
+"Danville, KY, United States",10/20/2020,69.4,61.7,64.4,,,1.39,0,0,11.3,186.29,24.2,7.5,69.3,88.01,"Rain, Partially cloudy"
+"Danville, KY, United States",10/21/2020,78,59.1,66.7,,,0,0,0,10.7,178.04,,9.6,10.4,75.31,Clear
+"Danville, KY, United States",10/22/2020,79.4,57.8,67.8,,,0,0,0,11.5,151.88,17.2,9.8,16.5,73.01,Clear
+"Danville, KY, United States",10/23/2020,79.4,60.6,67,,,0.62,0,0,15.9,191.79,32.2,9.5,31.4,78.47,"Rain, Partially cloudy"
+"Danville, KY, United States",10/24/2020,60.9,46,48.9,41.4,,0.03,0,0,13,144.54,26.9,8.7,78.6,82.43,"Rain, Overcast"
+"Danville, KY, United States",10/25/2020,50.4,46.5,48.3,41.9,,0.04,0,0,10.3,48.25,,9.3,78.6,88.35,"Rain, Overcast"
+"Danville, KY, United States",10/26/2020,53.6,48.5,51.3,45.6,,0.01,0,0,8.4,249.88,,9.2,78.7,86.85,"Rain, Overcast"
+"Danville, KY, United States",10/27/2020,59.8,47.4,52.1,44.6,,0,0,0,8.7,106.21,,8.9,78.2,83.07,Overcast
+"Danville, KY, United States",10/28/2020,62.7,51.3,55.6,,,0.15,0,0,7.7,163.42,,7.6,74.5,87,"Rain, Partially cloudy"
+"Danville, KY, United States",10/29/2020,59.1,46.3,53.9,41,,1.31,0,0,13.2,117.33,21.9,5.6,78.5,93.44,"Rain, Overcast"
+"Danville, KY, United States",10/30/2020,49,37.2,44.2,37.8,,0.05,0,0,12.7,246.79,20.8,9.3,60.2,77.01,"Rain, Partially cloudy"
+"Danville, KY, United States",10/31/2020,58.1,33.6,44.6,30.6,,0,0,0,7.5,110,,9.7,0.9,71.86,Clear
+"Danville, KY, United States",11/01/2020,55.1,36,49.5,29.4,,0,0,0,22.1,258.17,37.8,9.9,17.7,52.89,Clear
+"Danville, KY, United States",11/02/2020,48.5,27.2,36.7,23.7,,0,0,0,10.3,225.08,18.8,9.9,0,52.25,Clear
+"Danville, KY, United States",11/03/2020,62.4,34.5,46.1,28.7,,0,0,0,9.3,211.42,,9.9,0,49.31,Clear
+"Danville, KY, United States",11/04/2020,68.4,41.9,53.6,38.1,,0,0,0,11.4,174.13,19.7,9.9,0,53.93,Clear
+"Danville, KY, United States",11/05/2020,65.2,46,54.6,43.8,,0,0,0,10.6,170.42,,9.9,0,58.3,Clear
+"Danville, KY, United States",11/06/2020,69,39.8,53,38.8,,0,0,0,5.7,109.46,,9.9,0,66.09,Clear
+"Danville, KY, United States",11/07/2020,72.6,40.1,55.2,41.6,,0,0,0,5,110.25,,9.8,0,65.46,Clear
+"Danville, KY, United States",11/08/2020,77.7,50.1,61.7,,,0,0,0,7.8,91.38,,9.9,0,64.47,Clear
+"Danville, KY, United States",11/09/2020,78.1,53,64.3,,,0,0,0,9.2,121.5,,9.9,8.9,64.39,Clear
+"Danville, KY, United States",11/10/2020,77.9,58.1,66.9,,,0.16,0,0,16,163.54,29.9,9.8,29.4,68.62,"Rain, Partially cloudy"
+"Danville, KY, United States",11/11/2020,67.7,47.5,58.6,43.5,,0.37,0,0,10.7,281.29,25.3,9.1,76.4,81.87,"Rain, Overcast"
+"Danville, KY, United States",11/12/2020,54.4,34.5,43.4,27.3,,0,0,0,12,29.54,,9.1,9.7,74.56,Clear
+"Danville, KY, United States",11/13/2020,58.6,36.8,45.9,35.2,,0,0,0,8.5,245.78,,9.8,8.4,67.37,Clear
+"Danville, KY, United States",11/14/2020,57.3,32.6,45.4,32,,0,0,0,11.4,91.88,23,9.9,32.3,65.6,Partially cloudy
+"Danville, KY, United States",11/15/2020,61.6,42.9,55.2,38.2,,0.18,0,0,26,220.58,47.8,9.5,44.2,54.88,"Rain, Partially cloudy"
+"Danville, KY, United States",11/16/2020,54.1,33.6,43.7,27.2,,0,0,0,11.9,232.75,19.7,9.9,0,52.35,Clear
+"Danville, KY, United States",11/17/2020,45.3,32.1,41.7,29.2,,0,0,0,14.1,296.79,26.5,9.9,10.5,51.03,Clear
+"Danville, KY, United States",11/18/2020,48,25.6,36.3,30,,0,0,0,8.3,87.71,,9.9,14,57.12,Clear
+"Danville, KY, United States",11/19/2020,64.6,37.7,49.7,31.7,,0,0,0,17.9,179.71,31.1,9.9,0,38.75,Clear
+"Danville, KY, United States",11/20/2020,63.9,45.2,54.6,41,,0,0,0,18.5,205.46,29.8,9.9,21.7,52.21,Clear
+"Danville, KY, United States",11/21/2020,57.5,49.2,54,44.9,,0,0,0,10.6,99.96,,7.8,78.7,82.32,Overcast
+"Danville, KY, United States",11/22/2020,56.1,39.6,50.3,32.3,,0.17,0,0,14.9,187.17,28.1,7.1,72.5,88.45,"Rain, Partially cloudy"
+"Danville, KY, United States",11/23/2020,46.5,33.5,39.4,31.4,,0,0,0,12,213.42,20.8,9.9,42.9,79.65,Partially cloudy
+"Danville, KY, United States",11/24/2020,52.8,35.8,44.4,33.5,,0,0,0,10,114.79,,9.9,29,68.62,Partially cloudy
+"Danville, KY, United States",11/25/2020,59.6,48,53.8,44.1,,0.37,0,0,16.9,177.79,36.9,9,70,73.57,"Rain, Partially cloudy"
+"Danville, KY, United States",11/26/2020,54.9,48.2,50.3,45.2,,0,0,0,12.1,226.79,24.2,9.9,74.5,80.08,Partially cloudy
+"Danville, KY, United States",11/27/2020,56.5,46.1,49.6,45.7,,0,0,0,6.3,197.74,,9.8,57.3,71.6,Partially cloudy
+"Danville, KY, United States",11/28/2020,49,33.6,40.9,32.7,,0,0,0,6.2,172.54,,9.4,20.9,72.9,Clear
+"Danville, KY, United States",11/29/2020,54.3,28.8,41.5,24.5,,0.03,0,0,6.5,122.13,,9.6,18.1,75.13,Rain
+"Danville, KY, United States",11/30/2020,46.6,29.6,35.8,19.5,,0.93,1.25,1.25,13.3,311.17,26,4.9,77.7,90.22,"Snow, Overcast"
+"Danville, KY, United States",12/01/2020,31.1,24.2,28.6,17.4,,0.05,0.54,1.79,13.8,258.88,24.1,7.8,65.2,78.84,"Snow, Partially cloudy"
+"Danville, KY, United States",12/02/2020,40.4,19.3,28.9,13.3,,0,0.55,1.57,7.5,218.33,,9.9,0,75.09,Snow
+"Danville, KY, United States",12/03/2020,42,23.5,32.8,19.5,,0,0,0.59,5.5,119.25,,9.9,36.2,75.7,Partially cloudy
+"Danville, KY, United States",12/04/2020,43.7,40.4,42.2,35.4,,0.05,0,0,8.1,208.5,,7.7,78.4,86.62,"Rain, Overcast"
+"Danville, KY, United States",12/05/2020,45.2,30.2,37,26.9,,0,0,0,8.2,229.38,,8.1,18.4,78.95,Clear
+"Danville, KY, United States",12/06/2020,44.5,24.7,34.8,21.2,,0.02,0,0,6.5,47.5,,8.2,48.5,81.91,"Rain, Partially cloudy"
+"Danville, KY, United States",12/07/2020,35.2,31,33,24.3,,0,0,0,9.5,304.88,,9.8,77.3,74.64,Overcast
+"Danville, KY, United States",12/08/2020,33.4,23.6,29.4,23.3,,0,0,0,7.3,211.61,,9.9,62,70.54,Partially cloudy
+"Danville, KY, United States",12/09/2020,55.1,28.6,40.7,21.1,,0,0,0,14.2,219.54,21.9,9.7,0,67.34,Clear
+"Danville, KY, United States",12/10/2020,60.4,30.9,44.1,27.2,,0,0,0,9.6,134,,9.9,0,68.7,Clear
+"Danville, KY, United States",12/11/2020,64.5,42.1,51.8,38.3,,0,0,0,11.8,181.17,21.2,9.9,0,58.71,Clear
+"Danville, KY, United States",12/12/2020,61.4,42.8,54.7,39,,0.05,0,0,18.6,206.71,32.8,9.7,47.9,70.03,"Rain, Partially cloudy"
+"Danville, KY, United States",12/13/2020,44.3,34.8,40.1,29.6,,0.01,0,0,6,186.42,,8.6,64.3,82.02,"Rain, Partially cloudy"
+"Danville, KY, United States",12/14/2020,40.2,29,35.6,22.2,,0.23,0,0,13.9,213.38,20.8,8.5,78.7,80.93,"Rain, Overcast"
+"Danville, KY, United States",12/15/2020,37.5,21.5,29.4,14.4,,0,0,0,15,55.54,21.9,9.8,16.3,69.16,Clear
+"Danville, KY, United States",12/16/2020,39.2,32.3,34.9,25,,0.3,0,0,10.3,160.33,18.3,7.3,74.1,84.06,"Rain, Partially cloudy"
+"Danville, KY, United States",12/17/2020,32.6,30.5,31.3,23.6,,0,0,0,9.7,275.96,,6.6,78.6,85.46,Overcast
+"Danville, KY, United States",12/18/2020,37.8,23.6,31,23.7,,0,0,0,6.4,170.42,,7.2,17.7,77.15,Clear
+"Danville, KY, United States",12/19/2020,45.4,29.2,36.7,22.7,,0.04,0,0,11.9,173.38,,9.9,35.1,67.75,"Rain, Partially cloudy"
+"Danville, KY, United States",12/20/2020,43.9,33.3,39.3,28.9,,0.43,0,0,13.9,215.33,24.9,7.8,60.5,88.49,"Rain, Partially cloudy"
+"Danville, KY, United States",12/21/2020,48.1,32,39.8,25.9,,0,0,0,18.4,221.13,32.1,7.8,41.6,80.58,Partially cloudy
+"Danville, KY, United States",12/22/2020,44.7,33.2,39.5,28.3,,0,0,0,14.5,230.21,32.9,9.9,7.8,58.73,Clear
+"Danville, KY, United States",12/23/2020,58.2,30.8,44.7,26.4,,0,0,0,21.7,155.13,37,9.9,19.7,52.1,Clear
+"Danville, KY, United States",12/24/2020,50.2,20.4,34.4,9,,0.43,0.23,0.23,23.1,262,42.3,7.2,78.4,81.06,"Snow, Overcast"
+"Danville, KY, United States",12/25/2020,19.8,12.7,15.8,-1.5,,0.02,0.45,0.68,13.6,274.54,24.3,8.3,72.8,68.28,"Snow, Partially cloudy"
+"Danville, KY, United States",12/26/2020,37.2,10.3,22.5,-2.2,,0,0,0.59,11.6,194.88,21.9,9.9,4,65.09,Clear
+"Danville, KY, United States",12/27/2020,54.6,28,40.1,21.7,,0,0,0.15,14.1,171.83,27.7,9.9,4.6,58.65,Clear
+"Danville, KY, United States",12/28/2020,50.7,29.2,42.3,27.2,,0,0,0,19,269.29,34,9.9,48.1,62.12,Partially cloudy
+"Danville, KY, United States",12/29/2020,37.8,24.5,31.6,18.4,,0,0,0,13.4,113.25,23,9.9,28.3,67.61,Partially cloudy
+"Danville, KY, United States",12/30/2020,59.4,32.3,47.2,25.4,,0.22,0,0,20.2,190.58,37.2,9,45.7,67.8,"Rain, Partially cloudy"
+"Danville, KY, United States",12/31/2020,40.2,33.1,34.7,24.4,,0.62,0,0,13.1,152.04,21.9,6.4,78.5,89.9,"Rain, Overcast"
+"Danville, KY, United States",01/01/2021,60.4,34.4,47.3,25.5,,1.38,0,0,16.2,148.46,36.7,8.1,69.8,83.72,"Rain, Partially cloudy"
+"Danville, KY, United States",01/02/2021,43.9,39.5,41.5,36.3,,0.03,0,0,11,173.21,31.1,9.3,78.3,82.3,"Rain, Overcast"
+"Danville, KY, United States",01/03/2021,39.4,32.5,37,29.4,,0.13,0,0,8.8,259.04,,8.3,77.4,87.93,"Rain, Overcast"
+"Danville, KY, United States",01/04/2021,43.9,29,37.3,25.5,,0,0,0,5.6,190.75,,8.9,27.6,79.68,Partially cloudy
+"Danville, KY, United States",01/05/2021,39.4,32.7,35.1,26.1,,0,0,0,10.6,283.08,22.1,8.4,80.9,84.49,Overcast
+"Danville, KY, United States",01/06/2021,36.1,32.7,34.5,25.4,,0,0,0,10.7,143,,9.9,79.8,71.64,Overcast
+"Danville, KY, United States",01/07/2021,37.5,32.8,35,24.5,,0.02,0.49,0.49,15.4,56.75,29.8,9.7,68.7,68.12,"Snow, Partially cloudy"
+"Danville, KY, United States",01/08/2021,33.2,29.8,31.6,22.4,,0.01,0.64,1.13,11.8,249.63,21.9,9.7,80.9,76.05,"Snow, Overcast"
+"Danville, KY, United States",01/09/2021,30.8,24.3,29.1,22.9,,0,0,0.39,6.3,313.71,,9.7,70.9,70.36,Partially cloudy
+"Danville, KY, United States",01/10/2021,34.4,20.8,27.8,22.2,,0,0,0,4.6,145.58,,8.6,14.7,73.41,Clear
+"Danville, KY, United States",01/11/2021,30.9,22.6,26.4,19.8,,0,0,0,4.9,282.67,,7.1,38.7,78.24,Partially cloudy
+"Danville, KY, United States",01/12/2021,31.5,22.7,27.1,15.8,,0,0,0,8,230.04,18.3,7.4,35.1,75.12,Partially cloudy
+"Danville, KY, United States",01/13/2021,41.7,25.4,34.1,17.2,,0,0,0,10.9,200.88,23,8.7,0,68.02,Clear
+"Danville, KY, United States",01/14/2021,48.3,31.1,41.3,23.9,,0,0,0,12.9,182.33,29.8,9.9,13.9,63.42,Clear
+"Danville, KY, United States",01/15/2021,41.5,31.6,37.3,24.5,,0.18,0.63,0.63,13.6,212.46,31.7,9.1,64.6,69.56,"Snow, Partially cloudy"
+"Danville, KY, United States",01/16/2021,33.2,30.6,32.1,23.3,,0.14,0.43,1.06,12.8,237.08,23,5.9,79.8,85.5,"Snow, Overcast"
+"Danville, KY, United States",01/17/2021,34.3,30.3,32.8,22.8,,0.1,0.73,1.05,10.8,234.38,21.9,7.3,79.5,85.91,"Snow, Overcast"
+"Danville, KY, United States",01/18/2021,34.1,29.4,31.8,21.7,,0.01,0.27,0.68,8.7,239.63,,9.6,75.1,79.96,"Snow, Overcast"
+"Danville, KY, United States",01/19/2021,44,32.5,38.1,27.6,,0,0,0.24,9.5,223.75,20.6,9.7,36.1,68.22,Partially cloudy
+"Danville, KY, United States",01/20/2021,35.2,30.3,33.2,22.3,,0.01,0,0,11.7,244.67,34.4,9.9,23.2,56.72,Rain
+"Danville, KY, United States",01/21/2021,43.2,33.8,38.5,27,,0.01,0,0,12,229.13,34.4,9.4,44,77.43,"Rain, Partially cloudy"
+"Danville, KY, United States",01/22/2021,37.8,23.6,32.4,16.5,,0,0,0,9.5,292.29,22.2,8.9,4.3,63.54,Clear
+"Danville, KY, United States",01/23/2021,31.5,19.2,26.7,10.5,,0,0,0,9,66.54,,9.9,9.3,50.65,Clear
+"Danville, KY, United States",01/24/2021,39.6,30.1,35.3,22.3,,0.06,0,0,8.3,143.58,,7.2,73.2,70.86,"Rain, Partially cloudy"
+"Danville, KY, United States",01/25/2021,45.6,35.7,39.1,28.7,,2.04,0,0,11.4,73.29,31.5,5.4,80,95.6,"Rain, Overcast"
+"Danville, KY, United States",01/26/2021,48.7,35.1,44.3,28.7,,0.02,0,0,15,283.58,33.4,8.9,73,79.66,"Rain, Partially cloudy"
+"Danville, KY, United States",01/27/2021,35.4,25.1,32.1,15.6,,0.22,1.44,1.44,11,128.67,22.2,7.5,77.1,77.54,"Snow, Overcast"
+"Danville, KY, United States",01/28/2021,27.4,17.3,22.6,12.1,,0,0.87,2.31,9.1,288.63,19.7,9.5,35.8,74.93,"Snow, Partially cloudy"
+"Danville, KY, United States",01/29/2021,30.9,14.3,23.7,17.6,,0,0.15,1.53,5.9,60.42,,9.1,0,66.43,Snow
+"Danville, KY, United States",01/30/2021,37.7,24,32.4,17.3,,0.58,0.87,1.1,13.3,115.79,31.1,9,43,68.78,"Snow, Partially cloudy"
+"Danville, KY, United States",01/31/2021,44.5,32.4,39.3,23.9,,0.35,0.76,0.76,14.3,221.46,34.4,7.2,74.6,89.92,"Snow, Partially cloudy"
+"Danville, KY, United States",02/01/2021,31.7,26.8,29.1,17.2,,0.09,0.55,1.3,12.7,311.79,26.4,5.9,79.9,83.81,"Snow, Overcast"
+"Danville, KY, United States",02/02/2021,31.7,23.5,28.1,14,,0,0.18,1.42,12.6,311.21,31.1,9.9,33.1,65.44,"Snow, Partially cloudy"
+"Danville, KY, United States",02/03/2021,36.2,25.3,29.8,18.3,,0,0.94,1.29,6.6,242.88,17.2,9.9,8.4,66.1,Snow
+"Danville, KY, United States",02/04/2021,40.1,25.4,33.7,20.7,,0.25,0,0.45,15.3,159.17,36.2,9.6,48,68.83,"Rain, Partially cloudy"
+"Danville, KY, United States",02/05/2021,37.9,30.1,34.1,20.9,,0.01,0,0,15.1,241.17,33.3,9.9,36.9,61.86,"Rain, Partially cloudy"
+"Danville, KY, United States",02/06/2021,40,28.7,33.8,23,,0,0.3,0.3,7.7,205.88,,9.9,28.5,63.85,"Snow, Partially cloudy"
+"Danville, KY, United States",02/07/2021,29.1,18.9,25.1,11.3,,0.01,0.2,0.5,10.6,247.33,17.2,9.7,28.2,58.02,"Snow, Partially cloudy"
+"Danville, KY, United States",02/08/2021,37.1,17.3,29.8,9.6,,0,0,0.17,8.4,157.5,,9.9,39.1,64.02,Partially cloudy
+"Danville, KY, United States",02/09/2021,34.8,30.2,32.7,22.2,,0.01,0,0,8.7,27.88,,8,77.4,79.15,"Rain, Overcast"
+"Danville, KY, United States",02/10/2021,31.2,26.3,29.1,18.1,,0.82,0.3,0.3,11.2,47.96,20.8,4.2,80.4,87.32,"Snow, Overcast"
+"Danville, KY, United States",02/11/2021,26,23.4,24.6,13.8,,0.17,0.36,0.66,10.6,28.29,25.3,7.6,80.8,86.28,"Snow, Overcast"
+"Danville, KY, United States",02/12/2021,28.2,22.6,25.7,14.4,,0.01,0.07,0.73,7.2,99.54,,6.5,80.9,84.61,"Snow, Overcast"
+"Danville, KY, United States",02/13/2021,28.1,24.4,26.4,17.9,,0,0,0.69,7.1,220.58,,5,79.3,85.49,Overcast
+"Danville, KY, United States",02/14/2021,25.9,22.2,24.4,12.8,,0.11,0.66,0.81,10.6,35,,8,80.5,81.23,"Snow, Overcast"
+"Danville, KY, United States",02/15/2021,24.7,18.5,21.7,7.2,,0.78,0.86,1.5,12.7,110.79,25.3,4.2,79.6,86.74,"Snow, Overcast"
+"Danville, KY, United States",02/16/2021,18.1,6.9,12.7,1.2,,0.01,0.67,2,10.4,231.46,24.2,6.6,63.2,81.37,"Snow, Partially cloudy"
+"Danville, KY, United States",02/17/2021,23.3,7,17.7,2.6,,0.11,1.39,3.23,10.1,68.13,,8.4,53.8,80.07,"Snow, Partially cloudy"
+"Danville, KY, United States",02/18/2021,28.9,23,26,15.1,,0.03,0.92,4.15,7.4,213.63,,7.2,79,83.33,"Snow, Overcast"
+"Danville, KY, United States",02/19/2021,24.7,13.1,20.9,6.9,,0,0.08,4.23,7.2,285.42,,8.5,54.7,76.16,"Snow, Partially cloudy"
+"Danville, KY, United States",02/20/2021,28.9,8,20,6.9,,0,0.31,3.57,5,174.88,,8.7,13.8,71.55,Snow
+"Danville, KY, United States",02/21/2021,43.5,17.6,33.2,10.4,,0.01,0,3.08,15,131.08,35.6,9.5,14.2,66.21,Rain
+"Danville, KY, United States",02/22/2021,42.7,35.2,39.2,28.4,,0.12,0,1.7,15.5,226.71,34.4,9.5,51.6,72.24,"Rain, Partially cloudy"
+"Danville, KY, United States",02/23/2021,55,35.9,45.1,28.4,,0,0.07,0.56,13,207.92,26.2,9.9,1.9,52.36,Snow
+"Danville, KY, United States",02/24/2021,62.6,40,51.2,35.6,,0.02,0,0.15,18.4,233.04,35,9.9,38.5,52.2,"Rain, Partially cloudy"
+"Danville, KY, United States",02/25/2021,46.9,33.6,40,29.4,,0,0,0,7.7,102.58,24.2,9.3,8.3,61.1,Clear
+"Danville, KY, United States",02/26/2021,45.9,34.6,39.4,26.5,,0.21,0,0,12.2,97.04,26.4,9.1,47.6,71.92,"Rain, Partially cloudy"
+"Danville, KY, United States",02/27/2021,54.6,46.4,51.4,43.6,,0.45,0,0,9.4,156.79,29.8,8.1,74.7,87.49,"Rain, Partially cloudy"
+"Danville, KY, United States",02/28/2021,62.8,50.6,58.6,,,1.96,0,0,13.4,221.71,39.1,7.2,79,92.41,"Rain, Overcast"
+"Danville, KY, United States",03/01/2021,47.5,30.4,40.2,24.6,,0.13,0,0,11.9,281.33,26.4,9.7,28.3,68.43,"Rain, Partially cloudy"
+"Danville, KY, United States",03/02/2021,42.6,26.6,34.3,20.7,,0,0,0,6.6,91.04,,9.9,0,52.66,Clear
+"Danville, KY, United States",03/03/2021,55.9,26.5,43.1,23.1,,0,0,0,9.1,242.17,21.9,9.9,0,53.46,Clear
+"Danville, KY, United States",03/04/2021,53.1,30.3,42.8,22.9,,0,0,0,12.1,232,23,9.9,0.5,51.3,Clear
+"Danville, KY, United States",03/05/2021,42.1,25.9,34.3,17.4,,0,0,0,8.9,137.46,19.7,9.9,0,50.25,Clear
+"Danville, KY, United States",03/06/2021,46.1,28.1,37.2,24.8,,0,0,0,9.1,228.5,19.7,9.9,0,45.34,Clear
+"Danville, KY, United States",03/07/2021,50.7,26.9,37.5,22.9,,0,0,0,8.7,229.54,23,9.9,12.9,42.99,Clear
+"Danville, KY, United States",03/08/2021,62.3,27,44.5,22.2,,0,0,0,11.1,178.25,18.3,9.9,0,41.64,Clear
+"Danville, KY, United States",03/09/2021,67.5,35.7,51.8,31.9,,0,0,0,13.9,176.54,24.4,9.9,0,37.39,Clear
+"Danville, KY, United States",03/10/2021,70,45.5,57.5,42.4,,0,0,0,18.6,176.63,34.4,9.9,4.3,36.4,Clear
+"Danville, KY, United States",03/11/2021,67,55,60.9,,,0.36,0,0,18.1,200.96,32.5,9.2,67.2,57.29,"Rain, Partially cloudy"
+"Danville, KY, United States",03/12/2021,59.9,48.6,53.9,45,,0.67,0,0,10.3,116.63,,8.7,61.5,76.47,"Rain, Partially cloudy"
+"Danville, KY, United States",03/13/2021,56.1,42.2,48.9,39.1,,0,0,0,10.9,30.63,21.9,9.9,37.4,43.76,Partially cloudy
+"Danville, KY, United States",03/14/2021,50.9,34.9,43.8,32.4,,0.01,0,0,8.8,58.54,,9.9,46.9,56.1,"Rain, Partially cloudy"
+"Danville, KY, United States",03/15/2021,47.1,38.2,41.4,29.3,,0.39,0,0,18.2,82.63,31.6,9.3,68.1,61.24,"Rain, Partially cloudy"
+"Danville, KY, United States",03/16/2021,70.3,42.1,55.8,38.7,,0.1,0,0,11.8,211.38,22.7,8.9,12.5,70.15,Rain
+"Danville, KY, United States",03/17/2021,62.2,41.9,52.7,38.2,,0.09,0,0,11.3,116.29,,7.2,35.4,84.17,"Rain, Partially cloudy"
+"Danville, KY, United States",03/18/2021,65.3,41.8,56.6,34.6,,0.59,0,0,14.7,226.79,26.4,8.4,77.2,81.65,"Rain, Overcast"
+"Danville, KY, United States",03/19/2021,52.1,34.5,42.6,24,,0.02,0,0,19.4,23.92,35,9.9,26.2,53.58,"Rain, Partially cloudy"
+"Danville, KY, United States",03/20/2021,60.1,29.8,44.3,25.3,,0,0,0,10.9,51.08,18.3,9.9,0,44.59,Clear
+"Danville, KY, United States",03/21/2021,65,34.8,49.8,32.1,,0,0,0,6.8,100.48,,9.9,1.9,43.73,Clear
+"Danville, KY, United States",03/22/2021,67.2,43.3,54.9,41.7,,0,0,0,8.6,109,,9.9,12.2,53.13,Clear
+"Danville, KY, United States",03/23/2021,69.6,46.8,59.5,46.9,,0,0,0,12.1,139.25,21.9,9.9,46.6,48.95,Partially cloudy
+"Danville, KY, United States",03/24/2021,73.6,56.5,63.6,,,0,0,0,18.2,191.5,32.2,9.9,47.4,54.54,Partially cloudy
+"Danville, KY, United States",03/25/2021,65.9,50.4,59,,,0.75,0,0,19.3,129.71,37.7,8.8,45.2,77.16,"Rain, Partially cloudy"
+"Danville, KY, United States",03/26/2021,63.2,48.6,57,47.7,,0.06,0,0,20.7,214.13,37.3,9.9,39.1,66.81,"Rain, Partially cloudy"
+"Danville, KY, United States",03/27/2021,67.4,43.3,55.3,41.7,,0.04,0,0,11.9,133.33,21.9,9.7,19.1,78.34,Rain
+"Danville, KY, United States",03/28/2021,62.5,37.5,52.7,34.3,,0.36,0,0,22.1,264.25,39.1,9.5,53.8,64.91,"Rain, Partially cloudy"
+"Danville, KY, United States",03/29/2021,57.4,29.2,44.6,44.3,,0,0,0,6.4,109.09,,9.9,0,53.66,Clear
+"Danville, KY, United States",03/30/2021,73.3,42.4,59.2,39.1,,0.05,0,0,21.1,178.38,37.8,9.8,9.8,43.94,Rain
+"Danville, KY, United States",03/31/2021,58.3,39.9,48.7,33.2,,0.7,0,0,13.9,273.04,28.1,8.7,65,63.35,"Rain, Partially cloudy"
+"Danville, KY, United States",04/01/2021,39.9,29.1,34.6,22.1,,0,0,0,16.4,321.75,29.3,9.9,33.8,49.16,Partially cloudy
+"Danville, KY, United States",04/02/2021,46.5,23.4,35,19.8,,0,0,0,8.9,213.33,,9.9,0,50.53,Clear
+"Danville, KY, United States",04/03/2021,61.1,28.5,44.6,24.8,,0,0,0,9.9,183.13,20.8,9.9,0,42.47,Clear
+"Danville, KY, United States",04/04/2021,70.5,41,55.9,36.9,,0,0,0,10.8,223.71,19.7,9.9,0,40,Clear
+"Danville, KY, United States",04/05/2021,73.6,43.8,59.6,42.9,,0,0,0,12.8,211.83,21.9,9.9,0,45.91,Clear
+"Danville, KY, United States",04/06/2021,75,48.4,62.9,47.7,,0,0,0,8.5,203.75,19.7,9.9,11.8,51.89,Clear
+"Danville, KY, United States",04/07/2021,79.5,54.8,67.1,,,0,0,0,13.1,160.42,22.9,9.9,20.8,55.71,Clear
+"Danville, KY, United States",04/08/2021,66.2,60.1,63,,,0.16,0,0,14.6,164.71,29.8,9.7,57.3,74.26,"Rain, Partially cloudy"
+"Danville, KY, United States",04/09/2021,79,52.7,65.6,,,0,0,0,17.2,173.67,30.9,9.9,15,50.7,Clear
+"Danville, KY, United States",04/10/2021,65.5,55.6,61.9,,,0.64,0,0,12.9,169.79,33.3,8.5,41.1,73.6,"Rain, Partially cloudy"
+"Danville, KY, United States",04/11/2021,56.1,49.6,52.7,44.4,,0.06,0,0,19.2,241.08,32.9,9.9,60.7,67.99,"Rain, Partially cloudy"
+"Danville, KY, United States",04/12/2021,67.3,44.6,55.5,42.2,,0,0,0,14.6,260.29,29.5,9.7,30,65.16,Partially cloudy
+"Danville, KY, United States",04/13/2021,66.2,48.1,56.3,45.5,,0.02,0,0,6.3,201.96,,9.8,44.6,62.4,"Rain, Partially cloudy"
+"Danville, KY, United States",04/14/2021,55.8,44.9,50.1,42.6,,0.39,0,0,9.6,184.29,18.3,9.1,70,78.3,"Rain, Partially cloudy"
+"Danville, KY, United States",04/15/2021,54.5,39.4,46.5,34.9,,0,0,0,12.5,291.5,25.7,9.9,29.9,62.5,Partially cloudy
+"Danville, KY, United States",04/16/2021,59.5,33.4,47.1,,,0,0,0,6.3,129.79,16.1,9.9,7.4,63.42,Clear
+"Danville, KY, United States",04/17/2021,58.6,40.3,49,,,0,0,0,8.6,191.75,,9.8,48.3,70.34,Partially cloudy
+"Danville, KY, United States",04/18/2021,61.5,35.7,50.2,,,0,0,0,7,208.57,17.2,8.3,35.8,64.77,Partially cloudy
+"Danville, KY, United States",04/19/2021,64.9,44.9,54.6,42.3,,0,0,0,11.3,244.96,24.2,9.9,27.6,57.7,Partially cloudy
+"Danville, KY, United States",04/20/2021,68.2,41,54.7,34.6,,0,1.06,1.06,15.7,208.92,30,9.8,17.5,56.18,Snow
+"Danville, KY, United States",04/21/2021,42.9,31.8,36.4,24.5,,0.19,0.53,1.59,14.3,277.33,26.3,9,59.1,73.99,"Snow, Partially cloudy"
+"Danville, KY, United States",04/22/2021,52.9,30.4,41.8,24.9,,0,0,0.41,15.6,207.5,26.4,9.9,29.4,57.59,Partially cloudy
+"Danville, KY, United States",04/23/2021,58.3,31.2,46.3,28.6,,0,0,0,11.6,181.5,23,9.9,30,61.59,Partially cloudy
+"Danville, KY, United States",04/24/2021,52.6,48,49.9,45.1,,0.7,0,0,13.3,92.58,24.2,8.2,35.9,79.16,"Rain, Partially cloudy"
+"Danville, KY, United States",04/25/2021,61.1,45,51.4,44,,0,0,0,8.4,258.25,,6.5,32.4,78.77,Partially cloudy
+"Danville, KY, United States",04/26/2021,74.3,38.1,57.2,,,0,0,0,10.1,132.29,18.3,8.7,0.7,61.7,Clear
+"Danville, KY, United States",04/27/2021,79.6,58.1,69.5,,,0,0,0,18.9,204,31.9,9.9,0,49.47,Clear
+"Danville, KY, United States",04/28/2021,77.4,65.3,69.4,,,0.34,0,0,15.7,208.58,23,9.4,70.7,72.34,"Rain, Partially cloudy"
+"Danville, KY, United States",04/29/2021,67.8,55,64.6,,,0.44,0,0,16.8,229.96,30.1,8.5,77.3,88.3,"Rain, Overcast"
+"Danville, KY, United States",04/30/2021,71.5,48.8,59.5,45.9,,0,0,0,17.7,295.17,33,8.9,7.3,59.12,Clear
+"Danville, KY, United States",05/01/2021,70.6,36.2,54.8,32.6,,0,0,0,10.7,194.79,18.3,9.9,0,49.25,Clear
+"Danville, KY, United States",05/02/2021,75,53,63.6,,,0.04,0,0,13.1,178.83,24.2,9.9,39.4,54.74,"Rain, Partially cloudy"
+"Danville, KY, United States",05/03/2021,74.1,59.4,66.1,,,0.62,0,0,16.4,188.57,25.6,8.7,77.5,83.17,"Rain, Overcast"
